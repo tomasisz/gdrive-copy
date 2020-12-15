@@ -10,7 +10,7 @@ Drive, and you can move it from there.
 This project is not associated with Google in any way.
 
 To launch app: <https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec>
-
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tomasisz/gdrive-copy/)
 ## Unable to sign in
 
 If you are having issues signing in to the app, please try one of these options:
